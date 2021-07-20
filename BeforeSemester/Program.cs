@@ -1,5 +1,5 @@
 ﻿using System;
-using Internal_Access_Specifier;
+
 namespace BeforeSemester
 {
     class Access
